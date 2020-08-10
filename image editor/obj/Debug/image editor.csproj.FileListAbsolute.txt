@@ -1,0 +1,11 @@
+C:\Users\Аленка\source\repos\image editor\image editor\bin\Debug\image editor.exe.config
+C:\Users\Аленка\source\repos\image editor\image editor\bin\Debug\image editor.exe
+C:\Users\Аленка\source\repos\image editor\image editor\bin\Debug\image editor.pdb
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image editor.csprojAssemblyReference.cache
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image_editor.Form1.resources
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image_editor.Properties.Resources.resources
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image editor.csproj.GenerateResource.cache
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image editor.csproj.CoreCompileInputs.cache
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image editor.exe
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image editor.pdb
+C:\Users\Аленка\source\repos\image editor\image editor\obj\Debug\image_editor.NewImage.resources
